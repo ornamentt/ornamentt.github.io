@@ -6,6 +6,7 @@ Static GitHub Pages homepage generated from `简历_耿欣宇.pdf`.
 
 - `index.html`: homepage content.
 - `styles.css`: responsive styling.
+- `assets/avatar.jpg`: profile avatar.
 - `assets/resume-xinyu-geng.pdf`: downloadable CV.
 - `assets/logos/`: local logo assets for internship entries.
 

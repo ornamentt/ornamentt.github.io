@@ -73,19 +73,16 @@ a:hover {
 }
 
 .avatar {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: block;
   width: 140px;
   height: 140px;
   margin: 0 auto 15px;
   border: 1px solid rgba(0, 0, 0, 0.05);
   border-radius: 50%;
-  background: linear-gradient(145deg, #f8fbff, #dbeafa);
-  color: var(--accent-blue);
-  font-size: 38px;
-  font-weight: 800;
+  background: #ffffff;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  object-fit: cover;
+  object-position: center;
 }
 
 .name {
